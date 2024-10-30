@@ -14,13 +14,13 @@ However, it is inconvenient to type `vendor/bin/drush` in order to execute Drush
 
     OSX:
     ```Shell
-    curl -OL https://github.com/drush-ops/drush-launcher/releases/latest/download/drush.phar
+    curl -OL https://github.com/YahyaAhmad/drush-launcher/releases/latest/download/drush.phar
     ```
 
     Linux:
 
     ```Shell
-    wget -O drush.phar https://github.com/drush-ops/drush-launcher/releases/latest/download/drush.phar
+    wget -O drush.phar https://github.com/YahyaAhmad/drush-launcher/releases/latest/download/drush.phar
     ```
 1. Make downloaded file executable: `chmod +x drush.phar`
 1. Move drush.phar to a location listed in your `$PATH`, rename to `drush`:
